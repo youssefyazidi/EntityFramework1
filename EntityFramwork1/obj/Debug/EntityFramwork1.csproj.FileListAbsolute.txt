@@ -1,0 +1,13 @@
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\bin\Debug\EntityFramwork1.exe.config
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\bin\Debug\EntityFramwork1.exe
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\bin\Debug\EntityFramwork1.pdb
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\bin\Debug\EntityFramework.dll
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\bin\Debug\EntityFramework.xml
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\obj\Debug\EntityFramwork1.csprojResolveAssemblyReference.cache
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\obj\Debug\EntityFramwork1.Form1.resources
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\obj\Debug\EntityFramwork1.Properties.Resources.resources
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\obj\Debug\EntityFramwork1.csproj.GenerateResource.Cache
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\obj\Debug\EntityFramwork1.exe
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\EntityFramwork1\EntityFramwork1\obj\Debug\EntityFramwork1.pdb
